@@ -1,0 +1,33 @@
+ciudades,provincias,latitud,longitud,id,temperatura,temperatura_max,temperatura_min,tiempo
+Montevideo,Montevideo,-34.9058916,-56.1913095,3442926,12.72,12.89,12.72,lluvia de gran intensidad
+Buenos Aires,La Plata,-34.6075682,-58.4370894,3427458,14.01,14.44,12.25,nubes
+Catamarca,San Fernando del Valle de Catamarca,-27.1910825,-67.105374,3840159,1.61,1.61,1.61,cielo claro
+Chaco,Resistencia,-26.3829647,-60.8816092,3860419,24.22,24.22,24.22,muy nuboso
+Córdoba,Córdoba,37.8845813,-4.7760138,2519240,20.86,22.06,20.86,lluvia moderada
+Corrientes,Corrientes,-28.5912315,-57.9394658,3435273,19.71,19.71,19.71,cielo claro
+Entre Ríos,Paraná,-31.6252842,-59.3539578,3430634,16.17,16.17,16.17,nubes dispersas
+Formosa,Formosa,23.9739374,120.9820179,1670310,30.09,30.74,30.09,muy nuboso
+La Pampa,Santa Rosa,-37.2314643,-65.3972948,3849574,9.71,9.71,9.71,muy nuboso
+La Rioja,La Rioja,42.2814642,-2.482805,3336897,14.36,15.42,12.36,nubes
+Mendoza,Mendoza,-34.787093,-68.4381868,3839456,8.55,8.55,8.55,cielo claro
+Misiones,Posadas,-26.737224,-54.4315257,3430599,19.25,19.25,19.25,lluvia moderada
+Neuquén,Neuquén,-38.3695057,-69.832275,3844832,6.14,6.14,6.14,cielo claro
+Río Negro,Viedma,-40.4811973,-67.6145911,3835304,6.58,6.58,6.58,cielo claro
+Salta,Salta,-25.1076701,-64.3494964,3853491,22.33,22.33,22.33,nubes
+San Juan,San Juan,18.465299,-66.116666,4568127,25.32,27.9,23.77,nubes
+San Luis,San Luis,-2.5634605,-44.2448718,3386320,26.67,26.67,26.67,muy nuboso
+Santa Cruz,Río Gallegos,50.7504894,20.7829122,858790,12.67,13.66,12.67,nubes dispersas
+Santa Fe,Santa Fe,-30.3154739,-61.1645076,3837823,17.13,17.13,17.13,cielo claro
+Santiago del Estero,Santiago del Estero,-27.6431016,-63.5408542,3862338,18.51,18.51,18.51,nubes dispersas
+Tucumán,San Miguel de Tucumán,-26.5643582,-64.882397,3863700,18.82,18.82,18.82,algo de nubes
+Ciudad de Buenos Aires,Buenos aires,-34.6075682,-58.4370894,3427458,14.01,14.44,12.25,nubes
+Merlo,San Luis,-34.6604988,-58.7321695,3429244,13.56,14.52,12.32,nubes
+Ushuaia,Tierra del Fuego,-54.8069332,-68.3073246,3833367,1.21,1.21,1.21,nubes
+Villa General Belgrano,Córdoba,-31.97648,-64.5589958,3832734,10.63,10.63,10.63,nubes
+Ibera,Corrientes,40.895483,23.697982,8133863,17.58,22.58,17.34,cielo claro
+Rosario,Santa Fé,-32.9595004,-60.6615415,3864364,15.09,15.97,13.12,cielo claro
+Puerto Madryn,Rio Negro,-27.8074045,-64.2452689,3835869,18.24,18.24,18.24,algo de nubes
+San Martín de los Andes,Neuquen,-40.1288005,-71.2337882,3861704,0.54,0.54,0.54,muy nuboso
+Bariloche,Rio Negro,-41.1334421,-71.3098425,7647007,0.49,0.49,0.49,nubes dispersas
+San Juan,San Juan,18.465299,-66.116666,4568127,25.32,27.9,23.77,nubes
+Tartagal,Salta,-22.5194493,-63.7986328,3834601,21.28,21.28,21.28,algo de nubes
