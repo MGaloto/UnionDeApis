@@ -11,7 +11,7 @@ from time import sleep
 
 # Importamos la Key
 
-with open('C:/Users/maxig/Desktop/Carpetas/Cursos/EANT Data Developer/tareas/Apis/Claves.txt') as claves: keys = [clave.strip('\n') for clave in claves]
+with open('Claves.txt') as claves: keys = [clave.strip('\n') for clave in claves]
 
 
 key = keys[0]
@@ -29,7 +29,7 @@ tabla = [['ciudades', 'provincias', 'latitud', 'longitud', 'id', 'temperatura', 
 
 log_error = open('log_error.txt', 'w')
 
-with open('C:/Users/maxig/Desktop/Carpetas/Cursos/EANT Data Developer/tareas/Apis/ciudades_1.csv', 'r') as sucursales:
+with open('ciudades_1.csv', 'r') as sucursales:
     entrada = csv.reader(sucursales, delimiter = ';')
     for sucursal in entrada:
         ciudades = sucursal[0]
